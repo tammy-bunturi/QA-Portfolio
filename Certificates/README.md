@@ -1,6 +1,6 @@
 # Certifications
 
-This folder contains certifications that support my professional experience in Quality Assurance, Project Management, and Business Analysis.
+This folder contains certifications that demonstrate my knowledge and continuous professional development in Quality Assurance, Project Management, Business Analysis, Power BI, and English proficiency.
 
 
 ### ISTQB® Certified Tester Foundation Level (CTFL) v4.0
@@ -34,6 +34,21 @@ Successfully completed training in Manual Software Testing, covering:
 * Test Documentation
 
 **Certificate:** QA Manual Tester Certificate
+
+---
+
+## Microsoft Power BI Certificate
+* Power BI Desktop
+* Power Query
+* Data Modeling
+* DAX Fundamentals
+* Interactive Dashboards
+* KPI Visualization
+* Business Reporting
+* Data Transformation
+* Publishing & Sharing Reports
+
+**Certificate:** Microsoft Power BI
 
 ---
 
