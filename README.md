@@ -1,18 +1,19 @@
 # QA Portfolio - Tamar Bunturi
 
 ## About Me
-QA Engineer with hands-on experience in manual testing.
-Currently exploring automation testing using **Java + Selenium WebDriver**.
+QA Engineer with hands-on experience in Web & Mobile Testing, currently expanding into Java Selenium Automation and Power BI Data Analytics. Passionate about delivering high-quality software, actionable insights, and business-driven solutions.
 
 ---
 
 ## Tech Stack
-- **Manual Testing** - test cases, bug reports, regression, smoke testing
+- **Quality Assurance** - Manual, Functional, Regression, Exploratory & Mobile Testing
 - **Automation** - Java, Selenium WebDriver
-- **Tools** - Jira, TestRail, Postman, Chrome DevTools
-- **Version Control** - Git & GitHub
+- **Data Analytics** - Power BI, Power Query, DAX, Interactive Dashboards
+- **API Testing** - Postman, Swagger
+- **Tools** - Jira, TestRail, Chrome DevTools, Git & GitHub
 
 ---
 
 ## 🚀 Status
-> Currently building this portfolio. New projects uploading regularly.
+- Continuously expanding my portfolio with new QA, Mobile Testing, Automation, and Power BI projects. 
+- New projects uploading regularly.
