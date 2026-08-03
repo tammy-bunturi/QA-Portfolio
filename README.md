@@ -1,4 +1,4 @@
-# Software QA & Data Analytics Portfolio - Tamar Bunturi
+# Software QA & Data Analytics Portfolio
 
 ## About Me
 QA Engineer with hands-on experience in Web & Mobile Testing, currently expanding into Java Selenium Automation and Power BI Data Analytics. Passionate about delivering high-quality software, actionable insights, and business-driven solutions.
